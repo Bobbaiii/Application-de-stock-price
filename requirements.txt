@@ -1,3 +1,4 @@
+python == 3.8.5
 fbprophet==0.7.1
 yfinance==0.1.59
 numpy==1.20.2
