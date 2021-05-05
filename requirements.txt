@@ -5,4 +5,5 @@ streamlit==0.80.0
 scikit_learn==0.24.2
 pystan==2.19.1.1
 fbprophet==0.7.1
+prophet==1.0.1
 yfinance==0.1.59
